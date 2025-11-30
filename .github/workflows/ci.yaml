@@ -3,7 +3,7 @@ name: ci
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 14,28 * *'  # At 00:00 on day-of-month 14 and 28 UTC for security updates
+    - cron: '0 0 1 * *'
   push:
     paths:
       - 'Dockerfile'
