@@ -1,10 +1,10 @@
 {
-	"name": "nihan",
+	"name": "mari",
 	"version": "0.0.1",
 	"description": "VS Code Dev Containers",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/cilerler/nihan.git"
+		"url": "https://github.com/cilerler/mari.git"
 	},
 	"author": "Cengiz Ilerler",
 	"license": "SEE LICENSE IN LICENSE.md",
